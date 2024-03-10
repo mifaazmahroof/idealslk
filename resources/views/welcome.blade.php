@@ -69,14 +69,14 @@
                                             <div class="product">
                                                 <div class="product-image">
                                                     <div class="image"> <a href="detail.html"><img src="{{asset('public/frontend/assets/images/products/1.jpeg')}}" alt=""></a> </div>
-                                                    <div class="tag new"><span>new</span></div>
+                                                    <div class="tag new"><span>free</span></div>
                                                 </div>
                                                 <!-- /.product-image -->
 
                                                 <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Honda CD 125 T Benly</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Honda CD 125 T Benly</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p><b><i>Model: Honda CD 125 T Benly</i></b><br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 and 5-speed(OD)<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
@@ -124,9 +124,9 @@
                                                 <!-- /.product-image -->
 
                                                 <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Honda CD 125 T Twin</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Honda CD 125 T Twin</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p><b><i>Model Honda CD 125 T Twin</i></b><br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 speed<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
@@ -174,9 +174,9 @@
                                                 <!-- /.product-image -->
 
                                                 <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Honda CD 185 Road Master</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Honda CD 185 Road Master</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p>Model Honda CD 185 Road Master<br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 and 5-speed<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
@@ -224,9 +224,9 @@
                                                 <!-- /.product-image -->
 
                                                <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Honda CD 200 Road Master</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Honda CD 200 Road Master</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p><b><i>Model Honda CD 200 Road Master</i></b><br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 and 5-speed<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
@@ -274,9 +274,9 @@
                                                 <!-- /.product-image -->
 
                                                 <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Model Honda CM 125 T</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Model Honda CM 125 T</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p>Model Honda CM 125 T <br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 speed<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
@@ -324,9 +324,9 @@
                                                 <!-- /.product-image -->
 
                                                 <div class="product-info text-left">
-                                                    <h3 class="name"><a href="detail.html">Honda CD 125 T Twin</a></h3>
+                                                    <h3 class="name"><a href="detail.html"><b>Honda CD 125 T Twin</b></a></h3>
                                                     <div class="rating rateit-small"></div>
-                                                    <div class="description"><p>Model Honda CD 125 T Twin<br/>
+                                                    <div class="description"><p>
 <b>Engine Operation:</b> 4 stroke<br/>
 <b>Gearbox:</b> 4 speed<br/>
 <b>Starting Method:</b> Self Starter / Kick Starter<br/>
