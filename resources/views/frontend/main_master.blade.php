@@ -10,6 +10,7 @@
     <meta name="keywords" content="MediaCenter, Template, eCommerce">
     <meta name="robots" content="all">
     <title>IDeals Lanka Motors</title>
+    <link rel="icon" type="image/x-icon" href="{{ asset('public/favicon.ico') }}">
 
 
     <!-- Bootstrap Core CSS -->
