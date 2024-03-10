@@ -1620,7 +1620,7 @@
                                                 <!-- /.col -->
                                                 <div class="col2 col-xs-7">
                                                     <div class="product-info">
-                                                        <h3 class="name"><a href="#">Benly 125</a></h3>
+                                                        <h3 class="name"><a href="#">Benly T 125</a></h3>
                                                         <div class="rating rateit-small"></div>
                                                         <!-- <div class="product-price"> <span class="price"> $450.99 </span> </div> -->
                                                         <!-- /.product-price -->
