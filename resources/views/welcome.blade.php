@@ -17,7 +17,7 @@
                                 <div class="caption bg-color vertical-center text-left">
                                     <div class="slider-header fadeInDown-1">HONDA CBR</div>
                                     <div class="big-text fadeInDown-1"><span class="highlight">BLACK</span> HORSE</div>
-                                    <div class="excerpt fadeInDown-2 hidden-xs"> <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</span> </div>
+                                    <div class="excerpt fadeInDown-2 hidden-xs"> <span style="color:white">The Honda CBR models are a series of Honda sport bikes introduced in 1983.<br/>With the exception of the single-cylinder CBR150R, CBR250R, and CBR300R, all CBR motorcycles have inline engines.<br/>Less sporting/general models make up CB series.</span> </div>
                                     <div class="button-holder fadeInDown-3"></div>
                                 </div>
                                 <!-- /.caption -->
