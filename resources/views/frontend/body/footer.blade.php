@@ -36,8 +36,8 @@
                 <!-- /.col -->
 
               <!-- #start   -->
-              <div class="col-xs-12 col-sm-6 col-md-3">
-                    <!--<div class="module-heading">
+             <!-- <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="module-heading">
                         <h4 class="module-title">Customer Service</h4>
                     </div>
                     <!-/- /.module-heading -/->
@@ -51,9 +51,9 @@
                             <li class="last"><a href="#" title="Where is my order?">Help Center</a></li>
                         </ul>
                     </div>
-                    <!-/- /.module-body -->
+                    <!-/- /.module-body -/->
                 </div> 
-                <!-- /.col #End -->
+                <!-/- /.col #End -->
 
             <!--#start   -->  
              <div class="col-xs-12 col-sm-6 col-md-3">
@@ -77,14 +77,14 @@
                 <!-- /.col -->
 
              <!--#start  -->  
-             <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="module-heading">
                         <h4 class="module-title">Locate Me</h4>
-                    </div>
+                    </div> 
                     <!-- /.module-heading -->
 
                     <div class="module-body">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.5874499904035!2d80.56257297571491!3d7.057664316724043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae37694b880793d%3A0xa87f1ca8267b3319!2sIdeals%20Lanka%20Motors%20(Pvt)%20Ltd!5e0!3m2!1sen!2slk!4v1716700004715!5m2!1sen!2slk" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.5874499904035!2d80.56257297571491!3d7.057664316724043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae37694b880793d%3A0xa87f1ca8267b3319!2sIdeals%20Lanka%20Motors%20(Pvt)%20Ltd!5e0!3m2!1sen!2slk!4v1716700004715!5m2!1sen!2slk" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <!--<ul class='list-unstyled'>
                             <li class="first"><a href="#" title="About us">Shopping Guide</a></li>
                             <li><a href="#" title="Blog">Blog</a></li>
