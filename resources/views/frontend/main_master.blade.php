@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <meta name="keywords" content="MediaCenter, Template, eCommerce">
     <meta name="robots" content="all">
-    <title>IDeals Lanka Motors</title>
+    <title>Indian, Japan Bike Delears</title>
     <link rel="icon" type="image/x-icon" href="{{ asset('public/favicon.ico') }}">
 
 
@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="{{ asset('public/frontend/assets/css/animate.min.css') }}">
     <link rel="stylesheet" href="{{ asset('public/frontend/assets/css/rateit.css') }}">
     <link rel="stylesheet" href="{{ asset('public/frontend/assets/css/bootstrap-select.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('public/frontend/assets/css/bundle.min.css') }}">
 
     <!-- Icons/Glyphs -->
     <link rel="stylesheet" href="{{ asset('public/frontend/assets/css/font-awesome.css') }}">
@@ -64,6 +65,7 @@
     <script src="{{asset('public/frontend/assets/js/bootstrap-select.min.js')}}"></script>
     <script src="{{asset('public/frontend/assets/js/wow.min.js')}}"></script>
     <script src="{{asset('public/frontend/assets/js/scripts.js')}}"></script>
+    <script src="{{asset('public/frontend/assets/js/bundle.min.js')}}"></script>
     
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
